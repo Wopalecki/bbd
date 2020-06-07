@@ -3,10 +3,10 @@
 topnav:
 - title: Topnav
   items:
-    - title: GitHub
-      external_url: https://github.com/wopalecki/bbd
     - title: Actualités
       url: /news
+    - title: Galerie
+      external_url: https://wopalecki.github.io/bbd-gallery
 
 #Topnav dropdowns
 topnav_dropdowns:
@@ -16,18 +16,15 @@ topnav_dropdowns:
       folderitems:
         - title: Liste
           url: /breweries_list.html
-    - title: Products
+    - title: À propos
       folderitems:
-        - title: Jekyll Documentation Theme
-          url: /mydoc_introduction.html
-        - title: Product 1
-          url: /p1_landing_page.html
-        - title: Product 2
-          url: /p2_landing_page.html
+        - title: Le projet
+          url: /about_project.html
+        - title: Références
+          url: /about_references.html
+        - title: Liens
+          url: /about_links.html
+        - title: GitHub
+          external_url: https://github.com/Wopalecki/bbd
 
-topnav:
-- title: Topnav2
-  items:
-    - title: Galerie
-      external_url: https://wopalecki.github.io/bbd-gallery/
 
