@@ -3,7 +3,7 @@ title: Grandes Brasseries Atlas
 tags: [brasserie, anderlecht]
 keywords: brasseries, atlas, anderlecht
 summary: "Fiche descriptive concernant les Grandes Brasseries Atlas à Anderlecht"
-permalink: brewery_atlas.html
+permalink: brewery_669-atlas.html
 folder: breweries
 ---
 
@@ -55,68 +55,41 @@ La structure globale de l'ensemble a été bien conservée. Par  contre, tout ce
 
 ## Bières
 
-| Nom                |
-| ------------------ |
-| Ale-Zan            |
-| Atlas Pils         |
-| Bière des Carmes   |
-| Bijou              |
-| Blonde             |
-| Bock               |
-| Bock-Bier          |
-| Christmas Atlas    |
-| Christmas Export   |
-| Diest              |
-| Dortt              |
-| Export             |
-| Far-Ale            |
-| Faro               |
-| Fina               |
-| Foncée             |
-| Gersten            |
-| Hell Bitter        |
-| Herzogen Bier      |
-| Maltop             |
-| Maltop Bock        |
-| Maltosa            |
-| Maltosa Diest      |
-| Mars               |
-| Mill's Ale         |
-| Mill's Extra Stout |
-| Mill's Pale Ale    |
-| Mill's Scotch Ale  |
-| Mill's Stout       |
-| Pater              |
-| Pilsen             |
-| Prisma Atlas Pils  |
-| Prisma Christmas   |
-| Prisma Pils        |
-| Scotch             |
-| Speciale Atlas     |
-| Speciale Belge     |
-| Super Bock         |
-| Tafelbier 3e Cat.  |
+| Nom                      |                         |                          |
+| ------------------------ | ----------------------- | ------------------------ |
+| Ale-Zan                  | Atlas Pils              | Bière des Carmes         |
+| Bijou                    | Blonde                  | Bock                     |
+| Bock-Bier                | Christmas Atlas         | Christmas Export         |
+| Diest                    | Dortt                   | Export                   |
+| Far-Ale                  | Faro                    | Fina                     |
+| Foncée                   | Gersten                 | Hell Bitter              |
+| Herzogen Bier            | Maltop                  | Maltop Bock              |
+| Maltosa                  | Maltosa Diest           | Mars                     |
+| Mill's Ale               | Mill's Extra Stout      | Mill's Pale Ale          |
+| Mill's Scotch Ale        | Mill's Stout            | Pater                    |
+| Pilsen                   | Prisma Atlas Pils       | Prisma Christmas         |
+| Prisma Pils              | Scotch                  | Speciale Atlas           |
+| Speciale Belge           | Super Bock              | Tafelbier 3e Cat.        |
 
 
 ## Photos, Images, Objets, etc.
-{% include image.html file="breweries/atlas.png" url="https://photos.app.goo.gl/hcQS6TebrwBCPYYt6" alt="Galerie photos des Grandes Brasseries Atlas" caption="Galerie photos des Grandes Brasseries Atlas" %}
-
-{% include image.html file="breweries/atlas-962.jpg" url="https://photos.app.goo.gl/eF663v3ZNydgPaWq5" alt="Galerie verres, objets, etc. des Grandes Brasseries Atlas" caption="Galerie verres, objets, etc. des Grandes Brasseries Atlas" %}
+{% include image.html file="breweries/669-atlas.jpg" url="https://wopalecki.github.io/bbd-gallery/Atlas-Grandes-Brasseries.html" alt="Galerie photos des Grandes Brasseries Atlas" caption="Galerie photos des Grandes Brasseries Atlas" max-width="245" %}
 
 
 ## Références Bibliographiques
 
-| Source | Référence |
-|--------| :-------: |
+| Source | Références |
+|--------| :--------: |
 | Brauerei Verzeichnis - Belgien, Manfred FRIEDRICH, BDM FvB | 669a<br/>669b<br/>669c<br/>669d |
 | Bier en brouwerijen te Brussel van de middeleeuwen tot vandaag, Patricia QUINTENS, 1996, AMVB | p.163<br/>p.172 |
 
 
 ## Sources
 
-| Source                                                            |
+| Sources                                                            |
 | ----------------------------------------------------------------- |
 | Guy Moerenhout - [https://biereetbrasseriesbruxelles.wordpress.com](https://biereetbrasseriesbruxelles.wordpress.com) |
+| Proud 2B Belgian - [http://home.tiscali.be/proud2b/Codespostaux/1000/107001A01.htm](https://web.archive.org/web/20050120100117/http://home.tiscali.be/proud2b/Codespostaux/1000/107001A01.htm) |
 
 
 ## Liens externes
